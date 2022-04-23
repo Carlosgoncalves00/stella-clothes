@@ -910,7 +910,7 @@ a, button, .item-overlay, .global-overlay, .scroll-to-top i:before, .slick-dots 
   .ft-preloader .ft-child {
     width: 20px;
     height: 20px;
-    background-color: #562e48;
+    background-color: #a08450;
     border-radius: 100%;
     display: inline-block;
     -webkit-animation: ft-bouncedelay 1.4s ease-in-out 0s infinite both;
